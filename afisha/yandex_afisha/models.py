@@ -29,3 +29,4 @@ class Images(models.Model):
         verbose_name = "Изображение"
         verbose_name_plural = "Изображения"
 
+
